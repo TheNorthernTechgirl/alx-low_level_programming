@@ -6,11 +6,7 @@
  */
 int main(void)
 {
-	char acharType;
-	int aintType;
-	long alongType;
-	long long alonglongType;
-	float afloatType;
+
 
 	printf("Size of a char: %lu byte(s)\n", sizeof(acharType));
 	printf("Size of an int: %lu byte(s)\n", sizeof(aintType));
