@@ -2,7 +2,7 @@
 
 /**
  * * main - Print the content in the function
- * * Description: Prints out "Programming is like building a multilingual puzzle
+ * Description: Prints out "Programming is like building a multilingual puzzle
  *
  *  Return: 0
  */
