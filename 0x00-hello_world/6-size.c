@@ -2,10 +2,9 @@
 
 /**
  * main - Entry point
- *
  * Return; Always 0 (success)
  */
-int main
+int main(void)
 {
 	char acharacter;
 	int ainteger;
