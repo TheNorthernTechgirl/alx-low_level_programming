@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
- * main - prints string _putchar using
- * a header file and putchar() function prototype defined in it
+ * main -  prints _putchar, followed by a new line
  * Return: Always 0 (Success)
  */
 int main(void)
